@@ -1,0 +1,18 @@
+body > div.container {
+	margin-top: 40px;
+}
+ul.product-list {
+    list-style: none;
+    padding: 0px;
+    text-align: center;
+}
+
+ul.product-list li {
+    width: 300px;
+    text-align: left;
+    display: inline-block;
+}
+
+img.card-img-top {
+    width: 100%;
+}
