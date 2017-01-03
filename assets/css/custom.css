@@ -24,3 +24,8 @@ img.card-img-top {
 .product-pagination {
 	text-align: center;
 }
+
+.breadcrumb 
+{
+    background:#ffffff;
+}
